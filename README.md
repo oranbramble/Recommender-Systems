@@ -71,8 +71,16 @@ To be able to run either of the systems above, first the repository must be clon
 git clone https://github.com/oranbramble/Recommender-Systems.git
 ```
 
-Following this, use the instructions below to execute the separate programs.
+These programs were written fully in Python, so if you do not have this installed, please install the latest version from [here](https://www.python.org/downloads/). It also requires teh `numpy` library to be installed, which can be done in the command line using the following command (after installing Python):
+
+```
+python -m pip install numpy
+```
+
+</br>
 
 ### Cosine Similarity Program
+
+
 
 
