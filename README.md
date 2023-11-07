@@ -89,10 +89,13 @@ python main.py
 
 This will output the following result on the command line, showing the Mean Average Error (MAE) and Root Mean Squared Error (RMSE), which captures the accuracy of the system. 
 
+</br>
+
 <p align="center">
   <img src="https://github.com/oranbramble/Recommender-Systems/assets/56357864/8eb7c06e-cced-4fc5-b9d2-74a463b44001">
 </p>
 
+</br>
 
 
 
