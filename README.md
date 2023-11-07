@@ -49,7 +49,7 @@ This method relies on the decomposition and reformation of a ratings matrix. It 
 
 </br>
 
-Following this, it splits this into the **latent factors**. In this case, the latent facotrs are the users and the items. Basically, it splits it into separate matrices that multiply together to form the ratings matrix.
+Following this, it splits this into the **latent factors**. In this case, the latent factors are the users and the items. Basically, it splits the ratings matrix into 2 smaller matrices which, when multiplied together form the original ratings matrix. To find the latent factors, a **stochastic gradient descent** algorithm is used. This slowly builds up the latent factor matrices by randomly initialising the latent factor matrices, and the adjusting them using individual gradient descent steps. 
 
 </br>
 
