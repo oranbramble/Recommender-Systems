@@ -7,6 +7,8 @@ With this project, I developed 2 different recommender systems. The aim of both 
 
 ## Cosine Similarity
 
+</br>
+
 ![cosine sim](https://github.com/oranbramble/Recommender-Systems/assets/56357864/3425bd18-2367-40c9-b428-5d4032d756c7)
 
 The Cosine Similarity algorith works using the equation above to calculate predicted ratings for each user.
