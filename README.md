@@ -77,8 +77,6 @@ These programs were written fully in Python, so if you do not have this installe
 python -m pip install numpy
 ```
 
-</br>
-
 Both programs are trained on a 80k dataset, and then tested on a 20k dataset. Both, when run, output accuracy stattistics (errors) to see how well they predict the user ratings on the test set, compared to the real test values.
 
 </br>
