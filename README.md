@@ -5,6 +5,8 @@ With this project, I developed 2 different recommender systems. The aim of both 
 - Cosine Similarity
 - Matrix Factorisation
 
+Note both these systems were implemented relatively manually, meaning they do not use libraries to perform all the steps. The main library used is `numpy` for vector multiplication. Other than that, it relies on the equations and techniques below to calculated the predicted ratings.
+
 ## Cosine Similarity
 
 </br>
@@ -28,3 +30,11 @@ Following this. the similarities are used to then calculate the predicted rating
 </p>
 
 </br>
+
+The **neighbourhood** above relates to the items we want to compare to in order to calculate the predicted rating. For exmaple, might have a neighbourhood of 5 most similar items. This equation leaves us with a list of predicted ratings for users and items. This is what this program outputs to a file, the list of predicted ratings. 
+
+</br> 
+
+## Matrix Factorisation
+
+This is a more complicated method. It 
