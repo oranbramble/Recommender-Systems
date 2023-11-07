@@ -4,8 +4,8 @@
 ## Contents
 
 - **[Description](#Description)**
-  * **[Task Description](#task-description)**
-  * **[Project Contents](#project-contents)**
+  * **[Cosine Similarity](#Cosine-Similarity)**
+  * **[Matrix Factorisation](#project-contents)**
 - **[Running the Application](#running-the-application)**
 ---
 
