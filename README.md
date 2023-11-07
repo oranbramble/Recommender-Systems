@@ -68,8 +68,10 @@ These latent factors can then be multiplied back together to provide predicted r
 To be able to run either of the systems above, first the repository must be cloned using the Command Line interface line below:
 
 ```
-git clone 
+git clone https://github.com/oranbramble/Recommender-Systems.git
 ```
+
+Following this, use the instructions below to execute the separate programs.
 
 ### Cosine Similarity Program
 
