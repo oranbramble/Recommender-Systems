@@ -65,6 +65,12 @@ These latent factors can then be multiplied back together to provide predicted r
 
 ## How to run
 
+To be able to run either of the systems above, first the repository must be cloned using the Command Line interface line below:
+
+```
+git clone 
+```
 
 ### Cosine Similarity Program
+
 
