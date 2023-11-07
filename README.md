@@ -1,9 +1,15 @@
-#### Table of Contents
-[**Recommender Systems**](https://github.com/oranbramble/Recommender-Systems/blob/main/README.md#recommender-systems)
-
-
-
 # Recommender Systems
+
+---
+## Contents
+
+- **[Description](#Description)**
+  * **[Task Description](#task-description)**
+  * **[Project Contents](#project-contents)**
+- **[Running the Application](#running-the-application)**
+---
+
+## Description
 
 With this project, I developed 2 different recommender systems. The aim of both is to predict a list of ratings for usersv on items they have not rated yet, based on their previous ratings for other items. This is a classic problem for streaming services such as Netflix and Amazon Video, as they want to always be able to recommend the most relevant content for each individual to maximise sales. To then recommend content based on the list of ratings, you would sort the list of ratings and take the top items for each user and recommend these. The two systems I implemented are:
 
@@ -14,7 +20,7 @@ Note both these systems were implemented relatively manually, meaning they do no
 
 </br>
 
-## Cosine Similarity
+### Cosine Similarity
 
 </br>
 
@@ -42,7 +48,7 @@ The **neighbourhood** above relates to the items we want to compare to in order 
 
 </br> 
 
-## Matrix Factorisation
+### Matrix Factorisation
 
 This method relies on the decomposition and reformation of a ratings matrix. It starts with a matrix containing all known ratings for each user on all the items they have rated. It contains both the ratings and **holes**, where a user has not rated an item yet.
 
@@ -68,7 +74,7 @@ These latent factors can then be multiplied back together to provide predicted r
 
 </br>
 
-## How to run
+### How to run
 
 To be able to run either of the systems above, first the repository must be cloned using the Command Line interface line below:
 
@@ -86,7 +92,7 @@ Both programs are trained on a 80k dataset, and then tested on a 20k dataset. Bo
 
 </br>
 
-### Cosine Similarity Program
+#### Cosine Similarity Program
 
 To run this program, navigate to the `Cosine Similarity` directory, and then execute the following command:
 
@@ -104,6 +110,6 @@ This will output the following result on the command line, showing the Mean Aver
 
 </br>
 
-### Matrix Factorisation Program
+#### Matrix Factorisation Program
 
 
