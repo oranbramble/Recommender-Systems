@@ -9,6 +9,10 @@ With this project, I developed 2 different recommender systems. The aim of both 
 
 </br>
 
+The cosine similarity algorithm relies on two main equations. The first calculates the similarity between each and every item. This forms a **similarity matrix** containing similarities between each and every item. 
+
 ![cosine sim](https://github.com/oranbramble/Recommender-Systems/assets/56357864/3425bd18-2367-40c9-b428-5d4032d756c7)
 
-The Cosine Similarity algorith works using the equation above to calculate predicted ratings for each user.
+Following this. the similarities are used to then calculate the predicted ratings for each user. A predicted rating is a rating we predict a user will give for a certain item. In the example of Netflix, this would be predicting what a user will probably rate for a new tv show they have not watched yet.
+
+![prediction eq](https://github.com/oranbramble/Recommender-Systems/assets/56357864/3e6d92cb-361d-4979-aa1d-e535339a6ea6)
