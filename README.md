@@ -7,6 +7,8 @@ With this project, I developed 2 different recommender systems. The aim of both 
 
 Note both these systems were implemented relatively manually, meaning they do not use libraries to perform all the steps. The main library used is `numpy` for vector multiplication. Other than that, it relies on the equations and techniques below to calculated the predicted ratings.
 
+</br>
+
 ## Cosine Similarity
 
 </br>
