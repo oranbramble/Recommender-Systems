@@ -39,4 +39,14 @@ The **neighbourhood** above relates to the items we want to compare to in order 
 
 ## Matrix Factorisation
 
-This is a more complicated method. It 
+This method relies on the decomposition and reformation of a ratings matrix. It starts with a matrix containing all known ratings for each user on all the items they have rated. 
+
+<p align="center">
+  <img src="https://github.com/oranbramble/Recommender-Systems/assets/56357864/aab47861-04a3-4555-bc7e-1678e2faa6ac">
+</p>
+
+Following this, it splits this into the **latent factors**
+
+<p align="center">
+  <img src="https://github.com/oranbramble/Recommender-Systems/assets/56357864/ab7b2f47-c92c-4ace-9f09-d0e93713a4d2">
+</p>
