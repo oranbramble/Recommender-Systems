@@ -41,14 +41,22 @@ The **neighbourhood** above relates to the items we want to compare to in order 
 
 This method relies on the decomposition and reformation of a ratings matrix. It starts with a matrix containing all known ratings for each user on all the items they have rated. It contains both the ratings and **holes**, where a user has not rated an item yet.
 
+</br>
+
 <p align="center">
   <img src="https://github.com/oranbramble/Recommender-Systems/assets/56357864/aab47861-04a3-4555-bc7e-1678e2faa6ac">
 </p>
 
+</br>
+
 Following this, it splits this into the **latent factors**. In this case, the latent facotrs are the users and the items. Basically, it splits it into separate matrices that multiply together to form the ratings matrix.
+
+</br>
 
 <p align="center">
   <img src="https://github.com/oranbramble/Recommender-Systems/assets/56357864/ab7b2f47-c92c-4ace-9f09-d0e93713a4d2">
 </p>
+
+</br>
 
 Following this, these latent factor matrices are then multiplied back together, giving a new ratings matrix where the holes of missing ratings are now filled. Therefore, we can now take these filled hole ratings as the predicted ratings for that user on that item.
