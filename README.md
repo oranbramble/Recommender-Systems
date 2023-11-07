@@ -59,4 +59,4 @@ Following this, it splits this into the **latent factors**. In this case, the la
 
 </br>
 
-Following this, these latent factor matrices are then multiplied back together, giving a new ratings matrix where the holes of missing ratings are now filled. Therefore, we can now take these filled hole ratings as the predicted ratings for that user on that item.
+These latent factors can then be multiplied back together to provide predicted ratings for items that a user has not rated. This works as we initially factorised the ratings matrix, which contained holes (zeros) where a user had not rated an item, into the latents, and then when they are mutliplied back together, it creates a new rating matrix with the holes filled with predicted ratings. These predicted ratings are then taken and saved into a csv file. 
