@@ -6,6 +6,8 @@
   * **[Cosine Similarity](#Cosine-Similarity)**
   * **[Matrix Factorisation](#project-contents)**
 - **[Running the Application](#running-the-application)**
+  * **[Cosine Similarity]**
+  * **[Matrix Factorisation]**
 ---
 
 ## Description
