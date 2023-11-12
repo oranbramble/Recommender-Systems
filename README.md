@@ -4,8 +4,8 @@
 ## Contents
 - **[Description](#Description)**
   * **[Cosine Similarity](#Cosine-Similarity)**
-  * **[Matrix Factorisation](#project-contents)**
-- **[Running the Application](#running-the-application)**
+  * **[Matrix Factorisation](#Matrix-Factorisation)**
+- **[Running the Application](#Running-The-Application)**
   * **[Cosine Similarity](https://github.com/oranbramble/Recommender-Systems/blob/main/README.md#cosine-similarity-program)**
   * **[Matrix Factorisation]**
 ---
