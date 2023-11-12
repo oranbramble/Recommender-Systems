@@ -1,5 +1,3 @@
-# Recommender Systems
-
 ---
 ## Contents
 
@@ -8,6 +6,9 @@
   * **[Matrix Factorisation](#project-contents)**
 - **[Running the Application](#running-the-application)**
 ---
+
+
+# Recommender Systems
 
 ## Description
 
