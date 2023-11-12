@@ -1,6 +1,5 @@
 ---
 ## Contents
-
 - **[Description](#Description)**
   * **[Cosine Similarity](#Cosine-Similarity)**
   * **[Matrix Factorisation](#project-contents)**
