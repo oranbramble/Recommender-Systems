@@ -6,7 +6,7 @@
   * **[Cosine Similarity](#Cosine-Similarity)**
   * **[Matrix Factorisation](#project-contents)**
 - **[Running the Application](#running-the-application)**
-  * **[Cosine Similarity]**
+  * **[Cosine Similarity](https://github.com/oranbramble/Recommender-Systems/blob/main/README.md#cosine-similarity-program)**
   * **[Matrix Factorisation]**
 ---
 
