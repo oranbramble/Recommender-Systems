@@ -6,8 +6,8 @@
   * **[Cosine Similarity](#Cosine-Similarity)**
   * **[Matrix Factorisation](#Matrix-Factorisation)**
 - **[How To Run](#How-To-Run)**
-  * **[Cosine Similarity Program](https://github.com/oranbramble/Recommender-Systems/blob/main/README.md#cosine-similarity-program)**
-  * **[Matrix Factorisation Program](https://github.com/oranbramble/Recommender-Systems/blob/main/README.md#matrix-factorisation-program)**
+  * **[Cosine Similarity Program](#Cosine-Similarity-Program)**
+  * **[Matrix Factorisation Program](#Matrix-Factorisation-Program)**
 ---
 
 ## Description
